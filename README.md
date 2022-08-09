@@ -68,5 +68,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-PAULINE-ASHLEY <ashleyondiek9@gmail.com>
+PAULINE-ASHLEY <ashleyondiek9@gmail.com> <br>
 hrubiaa <hestonrubia@gmail.com>
